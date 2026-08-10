@@ -7,7 +7,7 @@
   <a href="mailto:sk.shaishav.9@gmail.com">
     <img src="https://img.shields.io/badge/Email-sk.shaishav.9%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/shaishav-967318252/">
+  <a href="www.linkedin.com/in/shaishav-967318252/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
