@@ -1,50 +1,47 @@
 # Hi there, I'm Shaishav 👋
 
-### Full-Stack Software Developer | MERN & Next.js Specialist
-
-I am a Computer Science Engineer focused on building high-performance, scalable web applications and systems. Experienced in full-stack JavaScript/TypeScript architectures, API design, database optimization, and modern UI engineering.
-
----
-
-### 💻 Primary Tech Stack
-
-* **Languages:** JavaScript (ES6+), TypeScript, Java, C++, Python
-* **Front-End:** React 18, Angular 21, Next.js, Redux, Tailwind CSS, Bootstrap 5
-* **Back-End:** Node.js, Express.js, RESTful APIs, Socket.IO
-* **Databases & Caching:** MongoDB, PostgreSQL, Redis
-* **DevOps & Tools:** Docker, Nginx, Git, Linux, Gemini AI API, Ollama
-
----
-
-### 🚀 Highlighted Work & Architecture
-
-#### 🛠️ PWRDA & SDSO State Portals *(PWRDA / National Informatics Centre)*
-* Developed frontend CMS panels using **Angular 21** and **TypeScript** with state management via Angular Signals.
-* Implemented HTTP Interceptors for RBAC security and engineered WCAG 2.1 AA / GIGW 3.0 accessible components.
-
-#### 🌐 Scalable Social Media Platform
-* Built a full-stack social platform using **React 18**, **Node.js**, **Express**, **PostgreSQL**, and **Redis**.
-* Containerized services using **Docker** and configured **Nginx** for reverse proxy management and load distribution.
-
-#### 🏥 UB E-Health Management Hub
-* Created a role-based healthcare portal featuring live appointment scheduling via **Socket.IO** and interactive clinical reporting.
-* Integrated **Google Gemini AI API** for automated medical report summary generation and context interpretation.
-
-#### 📚 UB-Books E-Commerce
-* Modern online bookstore featuring end-to-end shopping workflows, **Stripe API** payment processing, and automated PDF receipt dispatch using Nodemailer.
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaishav13&show_icons=true&theme=dark&count_private=true" alt="Shaishav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaishav13&layout=compact&theme=dark" alt="Top Languages" />
+<p align="left">
+  <a href="https://shaishav-portfolio-dev.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-shaishav--portfolio--dev.vercel.app-blue?style=for-the-badge" alt="Live Portfolio">
+  </a>
+  <a href="mailto:sk.shaishav.9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sk.shaishav.9%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/shaishav">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
+### 🧑‍💻 Full-Stack Software Developer | MERN & Next.js Specialist
+
+I build production-ready web applications focused on scalable REST APIs, state management, and seamless performance.
+
 ---
 
-### 📫 Connect With Me
+### 💻 Tech Stack & Tools
 
-* **Email:** [sk.shaishav.9@gmail.com](mailto:sk.shaishav.9@gmail.com)
-* **LinkedIn:** [linkedin.com/in/shaishav](https://linkedin.com/in/shaishav)
+- **Languages**: TypeScript, JavaScript (ES6+), Java, C++, Python
+- **Front-End**: React 18, Angular 21, Next.js 15, Redux, Tailwind CSS, Bootstrap 5
+- **Back-End**: Node.js, Express.js, RESTful APIs, Socket.IO
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **DevOps & AI**: Docker, Nginx, Git, Linux, Gemini API, Ollama, ComfyUI
+
+---
+
+### 🚀 Highlighted Work
+
+* **🏛️ PWRDA & SDSO State Portals** (*PWRDA / National Informatics Centre*)
+  Engineered Angular 21 CMS dashboards utilizing Angular Signals and HTTP Interceptors. Built WCAG 2.1 AA / GIGW 3.0 compliant UI components for state infrastructure platforms.
+
+* **🌐 Scalable Social Media Platform**
+  Full-stack social web app built with **React 18, Node.js, Express, PostgreSQL, and Redis**. Containerized via **Docker with Nginx** reverse proxying.
+
+* **🏥 UB E-Health Management Hub**
+  Healthcare administration platform featuring real-time appointment dispatch via **Socket.IO** and AI medical report summaries powered by **Google Gemini API**.
+
+* **📚 UB-Books E-Commerce Platform**
+  Online bookstore featuring end-to-end checkout, **Stripe API** payments, JWT session handling, and Nodemailer invoice automation.
+
+---
+
+### 📊 GitHub Analytics
