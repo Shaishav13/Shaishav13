@@ -1,47 +1,35 @@
-# Hi there, I'm Shaishav 👋
+# Shaishav
 
-<p align="left">
-  <a href="https://shaishav-portfolio-dev.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-shaishav--portfolio--dev.vercel.app-blue?style=for-the-badge" alt="Live Portfolio">
-  </a>
-  <a href="mailto:sk.shaishav.9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sk.shaishav.9%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/shaishav-967318252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+**Full-stack software developer** — MERN & Next.js
 
-### 🧑‍💻 Full-Stack Software Developer | MERN & Next.js Specialist
+I build production-ready web applications: scalable REST APIs, real-time features, and interfaces that hold up under real users. Most of my recent work has been CMS dashboards and infrastructure portals for government platforms, alongside full-stack products of my own.
 
-I build production-ready web applications focused on scalable REST APIs, state management, and seamless performance.
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaishav--portfolio--dev.vercel.app-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://shaishav-portfolio-dev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-sk.shaishav.9%40gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:sk.shaishav.9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaishav-967318252/)
 
 ---
 
-### 💻 Tech Stack & Tools
+### Stack
 
-- **Languages**: TypeScript, JavaScript (ES6+), Java, C++, Python
-- **Front-End**: React 18, Angular 21, Next.js 15, Redux, Tailwind CSS, Bootstrap 5
-- **Back-End**: Node.js, Express.js, RESTful APIs, Socket.IO
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **DevOps & AI**: Docker, Nginx, Git, Linux, Gemini API, Ollama, ComfyUI
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,redux,tailwind,nodejs,express,postgres,mongodb,redis,docker,nginx,git,linux,java,cpp,python&theme=dark" alt="Tech stack" />
 
 ---
 
-### 🚀 Highlighted Work
+### Selected work
 
-* **🏛️ PWRDA & SDSO State Portals** (*PWRDA / National Informatics Centre*)
-  Engineered Angular 21 CMS dashboards utilizing Angular Signals and HTTP Interceptors. Built WCAG 2.1 AA / GIGW 3.0 compliant UI components for state infrastructure platforms.
+**PWRDA / SDSO state portals** — National Informatics Centre
+CMS dashboards built with Angular 21 and Signals, WCAG 2.1 AA and GIGW 3.0 compliant, for state infrastructure platforms.
 
-* **🌐 Scalable Social Media Platform**
-  Full-stack social web app built with **React 18, Node.js, Express, PostgreSQL, and Redis**. Containerized via **Docker with Nginx** reverse proxying.
+**Scalable social platform**
+Full-stack social web app — React, Node, Express, PostgreSQL, Redis — containerized with Docker and served behind Nginx.
 
-* **🏥 UB E-Health Management Hub**
-  Healthcare administration platform featuring real-time appointment dispatch via **Socket.IO** and AI medical report summaries powered by **Google Gemini API**.
+**UB E-Health management hub**
+Healthcare administration platform with real-time appointment dispatch via Socket.IO and AI-generated medical report summaries via the Gemini API.
 
-* **📚 UB-Books E-Commerce Platform**
-  Online bookstore featuring end-to-end checkout, **Stripe API** payments, JWT session handling, and Nodemailer invoice automation.
+**UB-Books commerce platform**
+End-to-end checkout with Stripe, JWT session handling, and automated invoicing via Nodemailer.
 
 ---
 
-### 📊 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=Shaishav13&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b93a1&text_color=9aa0ac" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaishav13&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9aa0ac" alt="Top languages" height="165"/>
