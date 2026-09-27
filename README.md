@@ -18,9 +18,6 @@ I build production-ready web applications: scalable REST APIs, real-time feature
 
 ### Selected work
 
-**PWRDA / SDSO state portals** — National Informatics Centre
-CMS dashboards built with Angular 21 and Signals, WCAG 2.1 AA and GIGW 3.0 compliant, for state infrastructure platforms.
-
 **Scalable social platform**
 Full-stack social web app — React, Node, Express, PostgreSQL, Redis — containerized with Docker and served behind Nginx.
 
