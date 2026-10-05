@@ -12,7 +12,8 @@ I build production-ready web applications with a focus on scalable REST APIs, re
 
 ### Stack
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,nodejs,express,nestjs,postgres,mongodb,redis,supabase,docker,nginx,git,linux,python,cpp,java&theme=dark" alt="Tech stack" />
----
+
+
 ### Selected work
 **[AstroMate ✧ Celestial AI Best Friend](https://github.com/Shaishav13/astromate)**  
 A celestial AI companion utilizing a modern Next.js 14 / Framer Motion frontend deployed on Vercel, connected to a locally hosted LLM backend bridged via ngrok.
