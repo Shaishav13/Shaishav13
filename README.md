@@ -9,11 +9,9 @@ I build production-ready web applications with a focus on scalable REST APIs, re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaishav-967318252/)
 
 ---
-
 ### Stack
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,nodejs,express,nestjs,postgres,mongodb,redis,supabase,docker,nginx,git,linux,python,cpp,java&theme=dark" alt="Tech stack" />
-
-
+---
 ### Selected work
 **[AstroMate ✧ Celestial AI Best Friend](https://github.com/Shaishav13/astromate)**  
 A celestial AI companion utilizing a modern Next.js 14 / Framer Motion frontend deployed on Vercel, connected to a locally hosted LLM backend bridged via ngrok.
@@ -28,6 +26,3 @@ A privacy-first, fully offline local AI assistant featuring dual-model routing (
   <img src="https://github-readme-stats.vercel.app/api?username=Shaishav13&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b93a1&text_color=9aa0ac" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaishav13&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9aa0ac" alt="Top languages" height="165"/>
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shaishav13&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b93a1&text_color=9aa0ac" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaishav13&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9aa0ac" alt="Top languages" height="165"/>
